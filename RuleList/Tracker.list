@@ -1,0 +1,109 @@
+
+DOMAIN, ehtracker.org
+DOMAIN, 1337.abcvg.info
+DOMAIN, bt.okmp3.ru
+DOMAIN, ipv6.rer.lol
+DOMAIN, nyaa.tracker.wf
+DOMAIN, share.camoe.cn
+DOMAIN, t.nyaatracker.com
+DOMAIN, tk.greedland.net
+DOMAIN, torrentsmd.com
+DOMAIN, tracker.bt4g.com
+DOMAIN, tracker.electro-torrent.pl
+DOMAIN, tracker.files.fm
+DOMAIN, tracker.gbitt.info
+DOMAIN, tracker.renfei.net
+DOMAIN, tracker.tfile.co
+DOMAIN, www.all4nothin.net
+DOMAIN, www.wareztorrent.com
+DOMAIN, tr.abir.ga
+DOMAIN, tr.burnabyhighstar.com
+DOMAIN, tracker.gcrenwp.top
+DOMAIN, tracker.kuroy.me
+DOMAIN, tracker.lilithraws.org
+DOMAIN, tracker.loligirl.cn
+DOMAIN, tracker.tamersunion.org
+DOMAIN, tracker.yemekyedim.com
+DOMAIN, tracker1.520.jp
+DOMAIN, trackers.mlsub.net
+DOMAIN, trackers.run
+DOMAIN, www.peckservers.com
+DOMAIN, amigacity.xyz
+DOMAIN, bt2.archive.org
+DOMAIN, bubu.mapfactor.com
+DOMAIN, ec2-18-191-163-220.us-east-2.compute.amazonaws.com
+DOMAIN, epider.me
+DOMAIN, evan.im
+DOMAIN, exodus.desync.com
+DOMAIN, ipv6.fuuuuuck.com
+DOMAIN, martin-gebhardt.eu
+DOMAIN, moonburrow.club
+DOMAIN, new-line.net
+DOMAIN, odd-hd.fr
+DOMAIN, oh.fuuuuuck.com
+DOMAIN, open.demonii.com
+DOMAIN, open.demonoid.ch
+DOMAIN, open.free-tracker.ga
+DOMAIN, open.stealth.si
+DOMAIN, open.tracker.ink
+DOMAIN, opentor.org
+DOMAIN, opentracker.io
+DOMAIN, p2p.publictracker.xyz
+DOMAIN, p4p.arenabg.com
+DOMAIN, retracker.lanta.me
+DOMAIN, retracker01-msk-virt.corbina.net
+DOMAIN, ryjer.com
+DOMAIN, thetracker.org
+DOMAIN, tk2v6.trackerservers.com
+DOMAIN, tracker.0x7c0.com
+DOMAIN, tracker.bittor.pw
+DOMAIN, tracker.dler.com
+DOMAIN, tracker.doko.moe
+DOMAIN, tracker.draatman.uk
+DOMAIN, tracker.dump.cl
+DOMAIN, tracker.fnix.net
+DOMAIN, tracker.gmi.gd
+DOMAIN, tracker.opentrackr.org
+DOMAIN, tracker.silksa.co.za
+DOMAIN, tracker.skyts.net
+DOMAIN, tracker.tiny-vps.com
+DOMAIN, tracker.torrent.eu.org
+DOMAIN, tracker.tryhackx.org
+DOMAIN, ttr.croco.net
+DOMAIN, u6.trakx.crim.ist
+DOMAIN, tracker.openwebtorrent.com
+DOMAIN, hdkylin.top
+DOMAIN, tracker.hdkyl.in
+DOMAIN, tr.bangumi.moe
+DOMAIN, t2.popgo.org
+DOMAIN, opentracker.acgnx.se
+DOMAIN, tracker.acgnx.se
+DOMAIN, sukebei.tracker.wf
+DOMAIN, open.acgnxtracker.com
+DOMAIN, open.acgtracker.com
+DOMAIN, open.nyaatorrents.info
+DOMAIN, 104.238.198.186
+DOMAIN, t.acg.rip
+DOMAIN, tracker1.itzmx.com
+DOMAIN, tracker2.itzmx.com
+DOMAIN, tracker3.itzmx.com
+DOMAIN, tracker4.itzmx.com
+DOMAIN, tracker.kamigami.org
+DOMAIN, tracker.nanoha.org
+DOMAIN, bigfoot1942.sektori.org
+DOMAIN, tracker.coppersurfer.tk
+DOMAIN, tracker.internetwarriors.net
+
+
+
+;DOMAIN-SUFFIX：域名后缀匹配
+;DOMAIN：域名匹配
+;DOMAIN-KEYWORD：域名关键字匹配
+;IP-CIDR：IP 段匹配
+;SRC-IP-CIDR：源 IP 段匹配
+;GEOIP：GEOIP 数据库（国家代码）匹配
+;DST-PORT：目标端口匹配
+;SRC-PORT：源端口匹配
+;PROCESS-NAME：源进程名匹配
+;RULE-SET：Rule Provider 规则匹配
+;MATCH：全匹配

@@ -1,7 +1,7 @@
 
 ; 自定义
 DOMAIN-KEYWORD, pilipili
-
+DOMAIN-SUFFIX,misty.cx
 
 ; 来自 aca
 ; 删除部分重复/子集规则
